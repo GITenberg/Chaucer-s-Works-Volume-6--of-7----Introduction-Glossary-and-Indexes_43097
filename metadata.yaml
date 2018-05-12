@@ -1,0 +1,36 @@
+_repo: Chaucer-s-Works-Volume-6--of-7----Introduction-Glossary-and-Indexes_43097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chaucer, Geoffrey
+    alias: Chaucer, Jeffrey
+    birthdate: 1342
+    deathdate: 1400
+    gutenberg_agent_id: '144'
+    url: http://www.gutenberg.org/2009/agents/144
+    wikipedia: http://en.wikipedia.org/wiki/Geoffrey_Chaucer
+  editor:
+    agent_name: Skeat, Walter W. (Walter William)
+    alias: Skeat, Walter William
+    birthdate: 1835
+    deathdate: 1912
+    gutenberg_agent_id: '4590'
+    url: http://www.gutenberg.org/2009/agents/4590
+    wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
+description: ''
+gutenberg_issued: '2013-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- Middle English, 1100-1500'
+- !lcc 'PR'
+title: Chaucer's Works, Volume 6 (of 7) —  Introduction, Glossary, and Indexes
+url: http://www.gutenberg.org/ebooks/43097
